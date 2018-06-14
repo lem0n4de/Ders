@@ -1,6 +1,7 @@
 - [Çıkmışlar ve Kaynağı Bilinmeyen Sorular](#ckmlar-ve-kayna-bilinmeyen-sorular)
     - [Komite 3](#komite-3)
         - [Anatomi](#anatomi)
+    - [Fizyoloji (Final)](#fizyoloji-final)
 
 # Çıkmışlar ve Kaynağı Bilinmeyen Sorular
 
@@ -75,3 +76,108 @@
 19. Midesi tıkanan çocuk
     - Pylorus
     - (Maybe it is called pyloric stenosis => [Google search](https://www.google.com/search?q=pyloric+stenosis))
+
+## Fizyoloji (Final)
+
+\* Sorulan: "Geçmiş senelerdeki sorularda bu şık sorulmuş ancak hocanın gödnerdiği sorular daha genel."
+
+1. Neurotransmitters has mostly inhibitory action in the spinal cord level
+    - **Glisin**
+
+2. Pacinian corpuscle is a type of receptor called _____?
+    - **mecanoreceptor**
+3. According to nerve fiber classification what is the type of unmyelinated neurofibers?
+    - **Group 4**
+4. Which portion of cerebellum controls the body equilibrium?
+    - Foliculo nodular lobe
+5. Neurotransmitter in the acute & chronic pain transmission
+    - Acute pain => **Glutamate**
+    - Chronic pain => **Substance P**
+        - **Sorulan**
+6. The speech areas of central nervous system
+    - Understanding => **Vernicke**
+        - **Sorulan**
+    - Speech production => **Broca**
+7. The pathway between substantia nigra--caudate nucleus--putamen
+    - Dopamine
+8. Hypothalamic nucleuses controls satiety, hunger and thirst
+    - Satiety => Ventromedial
+        - **Sorulan**
+    - Hunger and Thirst => Lateral Hypothalamic
+9. Waves recorded during sleep
+    - REM Evresi => Beta-waves
+        - **Sorulan**
+    - Slow-wave Evresi => Delta-waves
+10. Schlemm Canal obstruction
+    - Aqueous humor
+11. Depolarizaton of hairy cells in the hearing mechanism
+    - Potassium (K+)
+    - When the hair cells are activated, the transduction channels are open and the permeability of the stereocilia to **potassium** increases.
+12. Alveolar ventilation rate calculation
+$Respiratory\ Rate\ x\ (normal\ tidal\ volume\ \ -\ \ normal\ dead\ space)$
+    - 4200
+        - **Sorulan**
+13. Most of the carbondioxide in the blood is transported
+    - **Bicarbonate**
+14. Blood group determination
+    - ![ABO](./resimler/ABO_blood_type.png)
+    - 0 Rh+
+        - **Sorulan**
+15. Adhesion of platelets to collagen is mediated by
+    - Von Willebrand Factor (VWF)
+16. Beginning of respiration
+    - Respiratory bronchiole
+17. Hangi trimester'da RBL nerelerde yapılır
+    - First => **blood islands**
+    - Second => Liver
+        - **Sorulan**
+    - Third => Bone marrow
+18. Electrical activity & waves seen in ECG
+    - ![ECG](./resimler/ecg.png)
+    - Atrial Repolarization
+        - ECG'de gözükmeyen activity
+        - **Sorulan**
+19. Auerbach (Myenteric) plexus nerededir?
+    - Between circular and longitudinal muscles
+    - *These nerve cells are the portion of the enteric nervous system responsible for generating peristaltic movements.*
+20. Which of the followings is a reason of decrease in edema?
+    - Increase in hydrostatic pressure of tissue fluid and
+    - Decreased osmotic pressure of tissue fluid
+21. A drug that raises heart rate
+    - Norepinephrine ??
+    - B1 adrenergic receptor agonists
+22. Gastrointestinal reflexes
+    - **Enterogastric reflex** (One of the 3 gastrointestinal reflexes) inhibits **gastric acid** and **gastric acid secretion** and it also causes decreased **motility**.
+    - Gastrocolic reflex makes an increase in motility of the colon in response to stretch in the stomach and the byproducts of digestion in the small intestine.
+    - Gastroileal reflex works with the gastrocolic reflex to stimulate the urge to defecate.
+23. Gastrointestinal hormone secretion induced by acidity
+    - **Secretin**
+        - **Sorulan**
+    - Cholecystokinin
+    - Gastric inhibitory peptide
+24. Pancreatic proteolytic enzymes
+    - ![Pancreatic Enzymes](./resimler/pancreatic.png)
+    - **Trypsin**
+        - **Sorulan**
+25. Vitamin deficiency in which cessation of teeth growth and extremely fragile blood vessels
+    - **Vitamin C**
+26. Relaxation of Oddi Sphincter
+    - Cholecystokinin
+27. Cells that have the ability of phagocytosis in small intestines is called
+    - Paneth cells
+28. Find the incorrect statement about Angiotensin II
+    - Vasodilation
+        - **Sorulan**
+    - (Angiotensin II causes vasoconstriction and an increase in blood pressure.)
+29. Glomerular filtration rate increases when ___?
+    - Glomerular hydrostatic pressure increases
+30. On which of the following does aldosterone exert its greatest effect?
+    - Collecting duct
+31. Renin is secreted by
+    - Juxtoglomerular cells
+32. Menstrual cycle hormones
+    - Ostrogen
+    - Progesterone
+    - FSH
+    - LH
+    - ![Female Hormones](./resimler/femalehormones.png)
