@@ -1,6 +1,7 @@
 - [Çıkmışlar ve Kaynağı Bilinmeyen Sorular](#ckmlar-ve-kayna-bilinmeyen-sorular)
     - [Komite 3](#komite-3)
         - [Anatomi](#anatomi)
+        - [Mikrobiyoloji](#mikrobiyoloji)
     - [Komite 4](#komite-4)
         - [Mikrobiyoloji](#mikrobiyoloji)
     - [Fizyoloji (Final)](#fizyoloji-final)
@@ -79,6 +80,30 @@
     - Pylorus
     - (Maybe it is called pyloric stenosis => [Google search](https://www.google.com/search?q=pyloric+stenosis))
 
+### Mikrobiyoloji
+
+1. ECG changes were seen, chest X-ray will reveal **cardiomegaly**, sebep?
+    - Coxsackie B
+
+2. Outbreak of hepatitis, in (suyu temiz olmayan bir bölge, fecally contaminated). Most patients reported fever, nausea, vomiting, weight loss. Followed by jaundice, pruritus, anti-HAV IgM negative. There are **pregnant women** in the area. Why are they at risk?
+    - Fulminant Hepatitis, HEV
+3. Which RNA viruses replicate in the cell nucleus?
+    - Influenza and HIV
+4. **Window period**'da, acute hepatitis'de bulunan hangisidir?
+    - **Anti-HBc**
+5. HBsAg **pozitif**, Anti-HBs **pozitif** (Ses kaydından: "*Kişi enfekte, kronik mi akut mu*"). HBeAg **pozitif**, Anti-HBc IgM **pozitif**.
+    - Akut Hepatit B
+6. Which one is true for HIV/AIDS?
+    - Perinatal transmission of the virus from mother to baby is most commonly with breast-feeding.
+7. Which of the following DNA viruses cause different type of infections like respiratory tract, gastroenteritis, epidemic conjunctivitis, hemorrhagic cystitis?
+    - Adenovirus
+8. a 25 year-old women presents to the local clinic with fever, malase, lymphadenopathy, pharyngitis("*Infectios mononucleosis tablosu*"). Predominance lymphocyte var however heterophile antibody **monospot test is negative**.
+    - CMV
+    - (Ses kaydından: "*En sıklıkla bu duruma yol açan **EBV**, EBV'de monospot test **positive**. Infectious mononucleosis olup heterophile negative olursa en sık etken **CMV***")
+9. Influenza binds to sensitive cells, major antigen for neutralizing antibodies?
+    - Hemagglutinin
+10. HIV tarama testi olan en sık tercih edilen?
+    - 4th generation antibody test
 
 ## Komite 4
 
@@ -92,7 +117,7 @@
     - ![Broad-based Budding Yeast Cell](./resimler/buddingyeast.png)
 3. Normally healthy young man in south america, was diagnosed with **coccidioidomycosis (valley fever)**, most likely route of infection is?
     - **Inhalation**
-    - (Ses kaydından "Bölge verdiğimiz zaman daha çok sistemik, endemik mycose'lara önem verilir.")
+    - (Ses kaydından: "*Bölge verdiğimiz zaman daha çok sistemik, endemik mycose'lara önem verilir*.")
 4. Several young men complain from a sudden onset of tinea pedis. Which of the following of the relation of skin scraping will support the diagnose?
     - Hyaline hyphae and arthroconidia
 5. Which one of the following is the agent for the acute inflammation of the hairy scalp, causing **favus** and cup-shaped crusts resembling a piece of honeycomb?
