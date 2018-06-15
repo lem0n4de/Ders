@@ -1,6 +1,8 @@
 - [Çıkmışlar ve Kaynağı Bilinmeyen Sorular](#ckmlar-ve-kayna-bilinmeyen-sorular)
     - [Komite 3](#komite-3)
         - [Anatomi](#anatomi)
+    - [Komite 4](#komite-4)
+        - [Mikrobiyoloji](#mikrobiyoloji)
     - [Fizyoloji (Final)](#fizyoloji-final)
 
 # Çıkmışlar ve Kaynağı Bilinmeyen Sorular
@@ -76,6 +78,34 @@
 19. Midesi tıkanan çocuk
     - Pylorus
     - (Maybe it is called pyloric stenosis => [Google search](https://www.google.com/search?q=pyloric+stenosis))
+
+
+## Komite 4
+
+### Mikrobiyoloji
+
+1. Candida albicans infection, most likely source of it:
+    - The patient itself
+
+2. Which of the following is the distinctive structure for identification in microscopic examination of a culture of blastomycosis?
+    - At 37 C, broad-based budding yeast cell
+    - ![Broad-based Budding Yeast Cell](./resimler/buddingyeast.png)
+3. Normally healthy young man in south america, was diagnosed with **coccidioidomycosis (valley fever)**, most likely route of infection is?
+    - **Inhalation**
+    - (Ses kaydından "Bölge verdiğimiz zaman daha çok sistemik, endemik mycose'lara önem verilir.")
+4. Several young men complain from a sudden onset of tinea pedis. Which of the following of the relation of skin scraping will support the diagnose?
+    - Hyaline hyphae and arthroconidia
+5. Which one of the following is the agent for the acute inflammation of the hairy scalp, causing **favus** and cup-shaped crusts resembling a piece of honeycomb?
+    - **trichophyton schoenleinii**
+6. Which one of the following is *not a thermally dimorphic fungus*?
+    - **Candida albicans**
+        - Dimorphic'tir ama thermally değil.
+    - Thermally Dimorphic olanlar:
+        - Tüm sistemik mycose etkenleri + sporothrix schenckii
+7. Which one of the following fungus develops **characteristic spherules**?
+    - **Coccidioides immitis**
+8. Causative agent of **tinea versicolor**?
+    - **malassezia furfur**
 
 ## Fizyoloji (Final)
 
