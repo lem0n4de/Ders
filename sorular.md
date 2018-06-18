@@ -22,8 +22,8 @@
 
 2. Visual angle for 2 point discrimination; minimum distance of nodal point-retina?
     - ![acuity](./resimler/acuity.jpg)
-    
-    $tan Θ = c/u = g (mm)/17.2(mm)$
+
+    tan Θ = c/u = g (mm)/17.2(mm)
         
 3. Desynchronized cell potentials
     - For desynchronized cells, potential equals to "square root of cell number" times "potential per cell":
