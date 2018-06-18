@@ -1,4 +1,8 @@
 - [Çıkmışlar ve Kaynağı Bilinmeyen Sorular](#ckmlar-ve-kayna-bilinmeyen-sorular)
+    - [Komite 1](#komite-1)
+        - [Biyofizik](#biyofizik)
+    - [Komite 2](#komite-2)
+        - [Biyofizik](#biyofizik)
     - [Komite 3](#komite-3)
         - [Anatomi](#anatomi)
         - [Mikrobiyoloji](#mikrobiyoloji)
@@ -7,6 +11,108 @@
     - [Fizyoloji (Final)](#fizyoloji-final)
 
 # Çıkmışlar ve Kaynağı Bilinmeyen Sorular
+
+## Komite 1
+
+### Biyofizik
+
+1. Intensity -> Frequency of Action Potential
+
+    Duration -> Change of frequency of Action Potential
+
+2. Visual angle for 2 point discrimination; minimum distance of nodal point-retina?
+    - ![acuity](./resimler/acuity.jpg)
+    $$ tan Θ = c/u = g (mm)/17.2(mm)$$
+        
+3. Desynchronized cell potentials
+    - For desynchronized cells, potential equals to "square root of cell number" times "potential per cell":
+        - Desyncronized cell number = D
+        - Syncronized cell number = S
+        - Potential of a single cell = e
+        - Total desynchronized cell potential = V<sub>desync</sub>
+        - Total synchronized cell potential = V<sub>sync</sub>
+            - √D * e = V<sub>desync</sub>
+              
+              e = v<sub>desync</sub> / √D
+              
+              V<sub>sync</sub> = e * S
+        - AN EEG activity of *10 mV* is measured *from a desynchronized activity* of a group of 10<sup>6</sup> neurons. What would the amplitude of the potential be when 1% of these  cells are synchronized?
+            - 10<sup>6</sup> * 10<sup>-2</sup> = 10<sup>4</sup> = S
+            - √10<sup>6</sup> * e = 10µV
+              
+              e = 10/1000 = 0,01µV
+            -  V<sub>sync</sub> = 0,01µV * 10<sup>4</sup>              
+               **V<sub>sync</sub> = 100µV**
+
+4. Visual Acuity is determined by:
+    - Density of photoreceptors on the retina
+    - Diffraction of light
+        - When **pupil size increases, acuity increases**
+        - When **it decreases, acuity also decreases**.
+5. Aksonun myelinle kaplanması akson ptansiyelinin hızla yayılmasına sebep olur;
+    - myelin, membranın direncini arttırır,
+    - myelin, membranın kapasitansını azaltır,
+    - myelin, kablo sabitini arttırır.
+6. Membran direnci arttığında elektrotonik potential daha uzak mesafelere iletilir.
+    - Membran kalınlığı azaldıkça elektrotonik potential daha uzak mesafelere iletilemez.
+    - Hücre içi direnç azaldıkça _____
+    - Çap büyüdükçe akım uzak yerlere gider.
+7. Elektrotonik potential -> 30mV
+    
+    λ = 2 mm (kablo sabiti)
+
+    x = 4mm
+
+    E<sub>ex</sub>=?
+    - E<sub>ex</sub> = E<sub>0</sub> × $e$<sup>-x/λ</sup>
+        - x uzaklığındaki potansiyel enerji
+    - 30mV × $e$<sup>-4/2</sup> = 30 × $e$<sup>-2</sup>
+    - 3,9 mV
+8. 9 × 10<sup>6</sup> => nöron sayısı
+
+    desenkron aktivitesi => 1,5 mV
+
+    bu hücrelerin %1'i senkron olursa E ne olur?
+    - (9 × 10<sup>6</sup>)<sup>-2</sup> × e = 1,5 mV
+
+        e = 1,5 / (3 × 10<sup>3</sup>)
+
+        S = (9 × 10<sup>6</sup>) × 10<sup>-2</sup> = 9 × 10<sup>4</sup>
+
+        (9 × 10<sup>4</sup>) × 1,5 / (3 × 10<sup>3</sup>)
+
+        = **45 mV**
+9. **Pyramidal hücrelerin uyarılması**yla beyinde oluşan yük dağılımı
+    - ![pyramidalcellinnervation](./resimler/pyramidalcellinnervation.png)
+10. Visual angle increase:
+    - retinadaki görüntü büyür,
+    - more 
+    - acuity increases,
+    - receptors receives more light,
+11. 5 mm uzaklıkta bulunan cisimde, yan yana 2 noktayı ayırt edebilmek için gereken minimum mesafe ne olur?
+    - g = 0,005 mm (görüntünün boyu)
+    - 17 mm = götüntü uzaklığı
+    - ![acuity](./resimler/acuity.jpg)
+    - 5/17 = x/0,005
+12. - Basilar membranın homojen yapısı yok
+    - Basilar membranın genişliği basilar membran boyunca değişir.
+
+## Komite 2
+
+### Biyofizik
+
+1. Çapı 1, içindeki kanın hızı 40 olan aortun çapı anevrizma sonucu 2 kat artmıştır. Bunun sonucunda hız ne olur?
+    - Q = Flow Rate = A × v
+    - π×1<sup>2</sup> × 40 = π×2<sup>2</sup> × v
+    - v = 10
+2. Pozitif geri beslemeli bir sistemde açık döngü kazancı 0,3 ise duyarlılık?
+    - Pozitif Açık döngüde duyarlılık 1/(1-G)
+    - Negatif açık döngüde 1/(1+G)
+3. Hangisi doğrudur?
+    - Pozitif uçtan negatif uca akım çıktığından pozitif uç kaynak olur.
+    - Negatif uca akım geldiğinden (-) uç çukur olur.
+    - Akım 1/r ile ters orantılıdır.
+        - **1,2 ve 3**
 
 ## Komite 3
 
