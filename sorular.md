@@ -1,5 +1,6 @@
 - [Çıkmışlar ve Kaynağı Bilinmeyen Sorular](#ckmlar-ve-kayna-bilinmeyen-sorular)
     - [Komite 1](#komite-1)
+        - [Anatomi](#anatomi)
         - [Biyofizik](#biyofizik)
     - [Komite 2](#komite-2)
         - [Biyofizik](#biyofizik)
@@ -13,6 +14,76 @@
 # Çıkmışlar ve Kaynağı Bilinmeyen Sorular
 
 ## Komite 1
+
+### Anatomi
+1. Which spinal nerves comprise the cauda equina?
+    - Lumbar, sacral, cocygeal
+2. Which of the following nerves causes the adrenal medulla to release **epinephrine** and **norepinephrine**?
+    - Sympathetic
+3. Which of the following cranial nerves contribute into the structure **tractus solitarius nucleus**?
+    - 7, 9, 10
+4. Which of the following is the **first branch of the facial nerve in the facial canal**?
+    - Greater petrosal nerve
+5. Which head ganglion is not a sensory ganglion?
+    - Otic ganglion
+6. Kulağı temizlerken öksürmeye sebep olan nerve?
+    - Auricular branch of the vagus nerve
+7. Which of the following levels of anterior spinal column are **under-perfused**?
+    - T4-L1
+8. Major blood supply, yanlış olan?
+    - anterior cerebral artey-lower parietal lobe
+9. Most of the the **berry aneurism** occurs at?
+    - Anterior communicating artery
+10. Adamkiewicz artery, yanlış olan?
+    - At anterior spinal syndrome, no innervation of the leg
+11. Which one is the center for emotional response of pain?
+    - Cingulate cortex
+12. Not correct for spinal lemniscus?
+    - Spinotectal tectal pathway is not a contributor to spinal lemniscus.
+13. Ascending circuit of fine touch sensation, doğru olan?
+    - 1<sup>st</sup> neuron is located at spinal ganglion
+14. Which of the following is not part of the mesencephalon?
+    - 3<sup>rd</sup> ventricle
+15. Yanlış olan şık
+    - Sense of vibration is conducted by anterolateral ascending system
+16. Hangi sensation is not conducted by dorsal column system?
+    - Temperature
+17. ![17. Soru](./resimler/syndrome.png)
+18. Related with adaptive behaivour
+    - Hypothalamus
+19. Not component of hippocampus?
+    - Amygdala
+20. Which is not in diencephalon?
+    - Lateral ventricle
+21. Not correct of Horner syndrome?
+    - effects always contralateral side of the body
+22. External tympanic membrane
+    - Cranial nerves 5 and 10
+
+    Internal tympanic membrane
+    - Cranial nerve 9
+23. Circle of Willis?
+    - **Heubner branch** is the branch of Anterior cerebral artery
+24. Papillary reflex sorusu, hangisi yanlış?
+    - Parasympathetic innervation, vasodilatation
+25. Cavernous sinus (components)?
+        
+        1.Internal carotid artery
+        2. Oculomotor
+        3. Trochlear
+        4. Abducens
+        5. Opthalmic
+        6. Maxillary
+    - (A şıkkıydı sınavda)
+26. Kulakla ilgili yanlış olan?
+    - Reissner membrane cochlea ve scala tympani ayırır.
+27. One guy testing wine and gargling, which nerves?
+    -  Glossopharyngeal ve Vagus
+    - IX and X
+28. Lesion, effects, related with Horner syndrome?
+    - Pancoast Tumor
+29. Yanlış olan?
+    - Primary motor cortex -> 7
 
 ### Biyofizik
 
