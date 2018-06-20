@@ -7,8 +7,10 @@
         - [Biyofizik](#biyofizik)
     - [Komite 3](#komite-3)
         - [Anatomi](#anatomi)
+            - [Bu sene çıkmış olanlar](#bu-sene-ckm-olanlar)
         - [Mikrobiyoloji](#mikrobiyoloji)
     - [Komite 4](#komite-4)
+        - [Anatomi](#anatomi)
         - [Mikrobiyoloji](#mikrobiyoloji)
     - [Fizyoloji (Final)](#fizyoloji-final)
 
@@ -231,23 +233,20 @@
 
 ### Anatomi
 
-1. **Superior Mesenteric Vein ile Splenic Vein'in birleştiği yer?** *ya da* **Portal Vein pancreas'ın neresinde bulunur?**
-    - Behind the neck of pancreas
-    - Superior mesenteric vein, splenic vein ile birleştiğinde **Portal Vein**'i oluştururç
-2. Pancreas çıkan vessel
+1. Pancreas çıkan vessel
     - *Probably* superior mesenteric artery
-3. İlk kalıcı molar diş 6 yaşında çıkmaz.
-4. Mide pylori'nin liver'da değdiği yer
+2. İlk kalıcı molar diş 6 yaşında çıkmaz.
+3. Mide pylori'nin liver'da değdiği yer
     - Quadrate lobe
-5. **Left gastric artery**, **Hepatic artey proper**'dan çıkmaz.
-6. Right testicular artery (????)
+4. **Left gastric artery**, **Hepatic artey proper**'dan çıkmaz.
+5. Right testicular artery (????)
     - Yan bilgi olaraktan, **left gonadal vein**, **left renal vein**'e dökülürken, **right gonadal vein** **inferior vena cava**'ya dökülür. 
-7. Quadrate lobe position:
+6. Quadrate lobe position:
     - On the **left**, by **round ligament** (or umbilical vein for fetuses)
     - on the **right**, by **gallbladder**
     - **behind**, by **porta hepatis**
     - ![Liver](./resimler/Quadratelobe.PNG)
-8. Esophagus blood supply
+7. Esophagus blood supply
     - Artery
       - Inferior thyroid artery (upper)
       - thoracic part of aorta (middle)
@@ -256,27 +255,34 @@
       - Inferior thyroid vein (upper)
       - azygos veins (middle)
       - left gastric vein (from portal vein) (lower)
-9. Common bile duct pancreas'ın neresinde bulunur?
-    - Head
-10. Treitz ligament duodenumun hangi partında bulunur?
+
+#### Bu sene çıkmış olanlar
+
+1. Common bile duct pancreas'ın neresinde bulunur?
+    - Superior to pancreas
+    - Daha sonra pancreasın içinden geçip Ampulla of Vater alınır.
+2. Portal vein pancreasın neresinde bulunur?
+    - Behind the neck of pancreas
+3. Treitz ligament duodenumun hangi partında bulunur?
+    - Duodenojejunal junction
     - **4**
-11. Dorsal mesogastrium derivatives
+4. Dorsal mesogastrium derivatives
     - Dorsal mesogastrium develops into **greater omentum**
-12. Ulcer in lesser curvature
+5. Ulcer in lesser curvature
     - Left Gastric
     - [Bu konuyla alakalı bir soru (proprofs)](https://www.proprofs.com/discuss/q/78228/patient-was-diagnosed-with-bleeding-ulcer-of-the-lesser)
-13. Duodenal ulcer
+6. Duodenal ulcer
     - Gastroduodenal artery
-14. Pancreas'ın arkasında olmayan damar?
+7. Pancreas'ın arkasında olmayan damar?
     - The aorta and inferior vena cava pass posteriorly to the head of the pancreas.
     - The superior mesenteric artery lies behind the neck of the pancreas and anterior to the uncinate process.
     - Posterior to the neck of the pancreas, the splenic and superior mesenteric veins unite to form the hepatic portal vein.
-15. Retroperitoneal **olmayan** organ (x2)
+8. Retroperitoneal **olmayan** organ (x2)
     - Spleen
-16. Colon ile Abdominal Wall arası bölge
+9. Colon ile Abdominal Wall arası bölge
     - Gutter
     - ([Paracolic Gutters](http://www.wiki-zero.net/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvUGFyYWNvbGljX2d1dHRlcnM))
-17. Related with tongue (cevabı verilmemiş, aşağıdakileri ben ekledim)
+10. Related with tongue *(cevabı verilmemiş, aşağıdakileri ben ekledim)*
     - Lingual frenulum
         - Attachment of tongue to oral floor
     - Lingual artery
@@ -288,14 +294,14 @@
         - **lingual nerve** of mandibular for sensation
     - Posterior one third of tongue
         - Glossopharyngeal nerve for both taste and sensation
-18. Cervical Esophagus'un etrafındakiler
+11. Cervical Esophagus'un etrafındakiler
     - Posterior
         - Vertebral column
     - Laterally 
         - Lobes of thyroid gland
     - Anterior
         - Trachea and the recurrent laryngeal nerves
-19. Midesi tıkanan çocuk
+12. Midesi tıkanan çocuk
     - Pylorus
     - (Maybe it is called pyloric stenosis => [Google search](https://www.google.com/search?q=pyloric+stenosis))
 
@@ -325,6 +331,43 @@
     - 4th generation antibody test
 
 ## Komite 4
+
+### Anatomi
+1. Inguinal canal'da yoktur?
+    - Iliohypogastric nerve
+2. Peritubular capillary'den vein'e dökülür.
+3. Kidney layers
+
+        -Skin
+            - muscle
+                - transversalis fascia
+                    - perirenal fat
+                        - Gerota's fascia
+                            - perirenal fat
+4. Nutcracker syndrome
+    - Doudenum **değil**
+5. Middle part of ureter
+    - Common iliac
+6. Apex of bladder
+    - median umbilical ligament
+7. Left ureter medial'de?
+    - Gonadal
+8. Ureter stone?
+    - Olmaz.
+9. Seminiferous tubule?
+    - Ejaculatory duct
+10. Wall of scrotum
+
+        - Skin
+            - Dartos
+                - Bucki
+                    - Tunea albuginosa
+11. Gubernaculum
+    - Broad ligament **değil**
+12. Medial episiotomy de 
+    - Pubococcygeus
+13. Bir şey posterior yapı değil?
+    - Artery'li şık (¯\\_(ツ)_/¯)
 
 ### Mikrobiyoloji
 
