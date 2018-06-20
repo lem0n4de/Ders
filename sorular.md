@@ -1,24 +1,24 @@
 - [Çıkmışlar ve Kaynağı Bilinmeyen Sorular](#ckmlar-ve-kayna-bilinmeyen-sorular)
     - [Komite 1](#komite-1)
-        - [Anatomi](#anatomi)
-        - [Biyofizik](#biyofizik)
+        - [Anatomi-1](#anatomi-1)
+        - [Biyofizik-1](#biyofizik-1)
     - [Komite 2](#komite-2)
-        - [Anatomi](#anatomi)
-        - [Biyofizik](#biyofizik)
+        - [Anatomi-2](#anatomi-2)
+        - [Biyofizik-2](#biyofizik-2)
     - [Komite 3](#komite-3)
-        - [Anatomi](#anatomi)
+        - [Anatomi-3](#anatomi-3)
             - [Bu sene çıkmış olanlar](#bu-sene-ckm-olanlar)
-        - [Mikrobiyoloji](#mikrobiyoloji)
+        - [Mikrobiyoloji-3](#mikrobiyoloji-3)
     - [Komite 4](#komite-4)
-        - [Anatomi](#anatomi)
-        - [Mikrobiyoloji](#mikrobiyoloji)
+        - [Anatomi-4](#anatomi-4)
+        - [Mikrobiyoloji-4](#mikrobiyoloji-4)
     - [Fizyoloji (Final)](#fizyoloji-final)
 
 # Çıkmışlar ve Kaynağı Bilinmeyen Sorular
 
 ## Komite 1
 
-### Anatomi
+### Anatomi-1
 1. Which spinal nerves comprise the cauda equina?
     - Lumbar, sacral, cocygeal
 2. Which of the following nerves causes the adrenal medulla to release **epinephrine** and **norepinephrine**?
@@ -88,7 +88,7 @@
 29. Yanlış olan?
     - Primary motor cortex -> 7
 
-### Biyofizik
+### Biyofizik-1
 
 1. Intensity -> Frequency of Action Potential
 
@@ -174,7 +174,7 @@
 
 ## Komite 2
 
-### Anatomi
+### Anatomi-2
 1. Can not define the boundaries of the superior thoracic aperture?
     - Posterior body of T2
 2. Not correct for transverse thoracic muscle?
@@ -214,7 +214,7 @@
 16. This portion of peritoneum attaches liver to the anterior abdominal wall & diaphram?
     - Falciform ligament
 
-### Biyofizik
+### Biyofizik-2
 
 1. Çapı 1, içindeki kanın hızı 40 olan aortun çapı anevrizma sonucu 2 kat artmıştır. Bunun sonucunda hız ne olur?
     - Q = Flow Rate = A × v
@@ -231,7 +231,7 @@
 
 ## Komite 3
 
-### Anatomi
+### Anatomi-3
 
 1. Pancreas çıkan vessel
     - *Probably* superior mesenteric artery
@@ -305,7 +305,7 @@
     - Pylorus
     - (Maybe it is called pyloric stenosis => [Google search](https://www.google.com/search?q=pyloric+stenosis))
 
-### Mikrobiyoloji
+### Mikrobiyoloji-3
 
 1. ECG changes were seen, chest X-ray will reveal **cardiomegaly**, sebep?
     - Coxsackie B
@@ -332,7 +332,7 @@
 
 ## Komite 4
 
-### Anatomi
+### Anatomi-4
 1. Inguinal canal'da yoktur?
     - Iliohypogastric nerve
 2. Peritubular capillary'den vein'e dökülür.
@@ -369,7 +369,7 @@
 13. Bir şey posterior yapı değil?
     - Artery'li şık (¯\\_(ツ)_/¯)
 
-### Mikrobiyoloji
+### Mikrobiyoloji-4
 
 1. Candida albicans infection, most likely source of it:
     - The patient itself
