@@ -3,6 +3,7 @@
         - [Anatomi](#anatomi)
         - [Biyofizik](#biyofizik)
     - [Komite 2](#komite-2)
+        - [Anatomi](#anatomi)
         - [Biyofizik](#biyofizik)
     - [Komite 3](#komite-3)
         - [Anatomi](#anatomi)
@@ -170,6 +171,46 @@
     - Basilar membranın genişliği basilar membran boyunca değişir.
 
 ## Komite 2
+
+### Anatomi
+1. Can not define the boundaries of the superior thoracic aperture?
+    - Posterior body of T2
+2. Not correct for transverse thoracic muscle?
+    - Elevates costal cartilages
+3. When cut lead to a droppy shoulder nerve?
+    - Spinal root of accessory nerve (C1-C5)
+4. The right posterior intercostal veins drain directly into directly?
+    - Azygous vein
+5. Emergency openning into airway, cricothyroid pierced?
+    - Superior to cricoid cartilage
+6. Tonsillar tissue found at?
+    - Between the palatoglossal and palatopharyngeal folds
+7. Correct for mucosa at the upper larynx innervation?
+    - Internal laryngeal nerve
+8. Right atrioventricular valve is prevented from everything by ?
+    - Papillary muscles
+9. Which accompanies esophagus while passing down through diaphram?
+    - Vagus nerve
+10. Phrenic nerves innervate?
+    - Diaphram, parietal pleura, pericardium
+11. Coronary arteries?
+    - arise from ascending aorta & filling during diastole?
+12. Which paranasal sinuses open into middle meatus?
+    - Anterior ethmoid, frontal  maxillary sinuses
+13. The walls of bronchioles contain
+    - Smooth muscle, respiratory epithelium
+14. Common carotid artey is a branch of?
+    - **Right** common carotid
+        - Brachiocephalic
+    - **Left**
+        - Aorta
+15. In mouth this runs posteriorly?
+    - **palatopharyngeal** arch
+        - posterior
+    - palatoglossal
+        - anterior
+16. This portion of peritoneum attaches liver to the anterior abdominal wall & diaphram?
+    - Falciform ligament
 
 ### Biyofizik
 
