@@ -139,9 +139,9 @@
     x = 4mm
 
     E<sub>ex</sub>=?
-    - E<sub>ex</sub> = E<sub>0</sub> × $e$<sup>-x/λ</sup>
+    - E<sub>ex</sub> = E<sub>0</sub> × e<sup>-x/λ</sup>
         - x uzaklığındaki potansiyel enerji
-    - 30mV × $e$<sup>-4/2</sup> = 30 × $e$<sup>-2</sup>
+    - 30mV × e<sup>-4/2</sup> = 30 × e<sup>-2</sup>
     - 3,9 mV
 8. 9 × 10<sup>6</sup> => nöron sayısı
 
@@ -354,7 +354,7 @@
 7. Left ureter medial'de?
     - Gonadal
 8. Ureter stone?
-    - Olmaz.
+    - Olmaz
 9. Seminiferous tubule?
     - Ejaculatory duct
 10. Wall of scrotum
@@ -432,7 +432,7 @@
     - Potassium (K+)
     - When the hair cells are activated, the transduction channels are open and the permeability of the stereocilia to **potassium** increases.
 12. Alveolar ventilation rate calculation
-$Respiratory\ Rate\ x\ (normal\ tidal\ volume\ \ -\ \ normal\ dead\ space)$
+    - Respiratory Rate x (normal tidal volume - normal dead space)
     - 4200
         - **Sorulan**
 13. Most of the carbondioxide in the blood is transported
