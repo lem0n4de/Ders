@@ -302,7 +302,7 @@
     - Anterior
         - Trachea and the recurrent laryngeal nerves
 12. Midesi tıkanan çocuk
-    - Pylorus
+    - Pylorus, T9-T10
     - (Maybe it is called pyloric stenosis => [Google search](https://www.google.com/search?q=pyloric+stenosis))
 
 ### Mikrobiyoloji-3
@@ -335,7 +335,7 @@
 ### Anatomi-4
 1. Inguinal canal'da yoktur?
     - Iliohypogastric nerve
-2. Peritubular capillary'den vein'e dökülür.
+2. Peritubular capillary'den **interlobular** vein'e dökülür.
 3. Kidney layers
 
         -Skin
@@ -346,6 +346,7 @@
                             - perirenal fat
 4. Nutcracker syndrome
     - Doudenum **değil**
+    - The nutcracker syndrome (NCS) results most commonly from the compression of the left renal vein between the abdominal aorta (AA) and superior mesenteric artery (SMA), although other variants exist.
 5. Middle part of ureter
     - Common iliac
 6. Apex of bladder
@@ -364,8 +365,8 @@
                     - Tunea albuginosa
 11. Gubernaculum
     - Broad ligament **değil**
-12. Medial episiotomy de 
-    - Pubococcygeus
+12. Median episiotomy de 
+    - bulbocavernosus
 13. Bir şey posterior yapı değil?
     - Artery'li şık (¯\\_(ツ)_/¯)
 
@@ -454,45 +455,47 @@ $Respiratory\ Rate\ x\ (normal\ tidal\ volume\ \ -\ \ normal\ dead\ space)$
     - Atrial Repolarization
         - ECG'de gözükmeyen activity
         - **Sorulan**
-19. Auerbach (Myenteric) plexus nerededir?
+19. Precordial derivations and attachment regions, wrong?
+    - V5 Mid Maxillary
+20. Auerbach (Myenteric) plexus nerededir?
     - Between circular and longitudinal muscles
     - *These nerve cells are the portion of the enteric nervous system responsible for generating peristaltic movements.*
-20. Which of the followings is a reason of decrease in edema?
+21. Which of the followings is a reason of decrease in edema?
     - Increase in hydrostatic pressure of tissue fluid and
     - Decreased osmotic pressure of tissue fluid
-21. A drug that raises heart rate
+22. A drug that raises heart rate
     - Norepinephrine ??
     - B1 adrenergic receptor agonists
-22. Gastrointestinal reflexes
+23. Gastrointestinal reflexes
     - **Enterogastric reflex** (One of the 3 gastrointestinal reflexes) inhibits **gastric acid** and **gastric acid secretion** and it also causes decreased **motility**.
     - Gastrocolic reflex makes an increase in motility of the colon in response to stretch in the stomach and the byproducts of digestion in the small intestine.
     - Gastroileal reflex works with the gastrocolic reflex to stimulate the urge to defecate.
-23. Gastrointestinal hormone secretion induced by acidity
+24. Gastrointestinal hormone secretion induced by acidity
     - **Secretin**
         - **Sorulan**
     - Cholecystokinin
     - Gastric inhibitory peptide
-24. Pancreatic proteolytic enzymes
+25. Pancreatic proteolytic enzymes
     - ![Pancreatic Enzymes](./resimler/pancreatic.png)
     - **Trypsin**
         - **Sorulan**
-25. Vitamin deficiency in which cessation of teeth growth and extremely fragile blood vessels
+26. Vitamin deficiency in which cessation of teeth growth and extremely fragile blood vessels
     - **Vitamin C**
-26. Relaxation of Oddi Sphincter
+27. Relaxation of Oddi Sphincter
     - Cholecystokinin
-27. Cells that have the ability of phagocytosis in small intestines is called
+28. Cells that have the ability of phagocytosis in small intestines is called
     - Paneth cells
-28. Find the incorrect statement about Angiotensin II
+29. Find the incorrect statement about Angiotensin II
     - Vasodilation
         - **Sorulan**
     - (Angiotensin II causes vasoconstriction and an increase in blood pressure.)
-29. Glomerular filtration rate increases when ___?
+30. Glomerular filtration rate increases when ___?
     - Glomerular hydrostatic pressure increases
-30. On which of the following does aldosterone exert its greatest effect?
+31. On which of the following does aldosterone exert its greatest effect?
     - Collecting duct
-31. Renin is secreted by
+32. Renin is secreted by
     - Juxtoglomerular cells
-32. Menstrual cycle hormones
+33. Menstrual cycle hormones
     - Ostrogen
     - Progesterone
     - FSH
