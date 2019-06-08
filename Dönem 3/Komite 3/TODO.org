@@ -1,0 +1,14 @@
+* Komite 1
+  SCHEDULED: <2019-07-01 Mon 20:00>
+* Komite 2
+  SCHEDULED: <2019-07-01 Mon 20:00>
+* Komite 3
+  SCHEDULED: <2019-07-02 Tue 00:00>
+* Komite 4
+  SCHEDULED: <2019-06-30 Sun 20:00>
+* Komite 5
+  SCHEDULED: <2019-06-29 Sat 13:00>
+* Komite 6
+  SCHEDULED: <2019-06-29 Sat 20:00>
+* DONE Komite 7
+  CLOSED: [2019-06-29 Sat 03:05]

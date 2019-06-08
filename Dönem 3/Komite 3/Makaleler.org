@@ -1,0 +1,37 @@
+* Chronic cough
+- >8 weeks of cough
+- Dry or a little amount of sputum
+- Most commonly associated drug is ACE Inhibitors 
+** Cough and GERD
+*** Acid suppression therapy (2 PPIs per day for 3 months)
+** Cough and Allergic rhinitis
+*** Nasal glucocorticoids and antihistaminics (but is not really effective)
+** Idiopathic or refractory cough
+*** Gabapentin *pregabalin* improves chronic cough a lot
+*** Amitryptiline also
+*** Gabapentin + pregabalin
+**** Better cough severity but not frequency
+* Peripheral Artery Disease (Caused by atherosclerosis)
+** Signs and Symptoms
+*** Asymptomatic
+*** Discomfort on exertion of the muscles that are distal to the atherosclerotic artery
+*** Atypical leg discomfort for claudication.
+*** Acute or chronic critical limb ischemia
+*** 0.9 or less ankle-brachial index
+** Treatment
+*** *High Intensity statin therapy* for hyperlipidemia
+*** Antihypertensive treatment for hypertension
+*** Smoking cessation
+*** Diabetes tx
+*** Antiplatelet
+**** Significant reduction in nonfatal stroke risk but not CV events
+**** Clopidogrel
+*** Revascularization and Supervised exercise for functional capacity improvements
+* Initial Mgmnt of Hypertension
+** Lifestyle changes
+*** Restriction of sodium intake *below 1500 mg per day*
+*** Exercise
+*** Minimized use of NSAIDs, decongestants, amphetamines
+** Pharmacologic
+*** ACE Inhibitors, angiotensin-receptor blockers, calcium-channel blockers, thiazide-type diuretics
+**** Thiazide type diuretics should be used with caution over 65 yo or low level sodium people

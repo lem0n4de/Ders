@@ -184,3 +184,136 @@
     - Infectious mononucleosis _kissing disease_
     - Burrkitt lymphoma
     - Nasopharyngeal carcinoma
+
+## Komite 3
+1. Hyeline arteriosclerosis
+    - Homogen pink hyaline thickening
+2. Hyperplastic arterisclerosis
+    - Onion skin
+    - Laminated
+    - Laminal narrowing
+    - Necrotizing arteriolitis
+3. Abdominal aortic aneurysm
+    - Aortic dissection
+    - Most common aneurysm type
+    - Atherosclerosis is a major cause
+    - Hypertension is a major risk factor
+4. Giant Cell Arteritis / Temporal Arteritis
+    - Ophtalmic arteries, visual headache
+    - Intimal thickening
+    - Medial granulomatous inflammation
+    - Elastic lamina inflammation
+5. Takayasu Arteritis
+    - Granulomatous arteritis
+    - Involves aortic arch
+    - Pulseless disease
+6. Polyarteritis Nodosa
+    - Segmental transmural necrotizing inflammation
+    - Chronic HBV ilişkili
+    - Most common when lungs are involved
+    - Lesions of all stages at the same time
+7. Kawasaki Syndrome
+    - Children
+    - Coronary artery involvement
+8. Thromboangiitis Obliterans / Buerger's Disease
+    - Tibial, radial arteries
+    - Tobacco users < 35yo
+9. Microscopic Polyangiitis
+    - Lesion at the same stage at the same time
+    - Hemoptysis, hematuria
+    - Necrotizing, rapidly progressing, crescent, glomerulonephritis
+10. Churg-Strauss Syndrome
+    - Allergic granulomatosis and angiitis
+11. Behcet Disease
+    - Oral aphtous ulcers
+    - Genital aphtous ulcers
+    - Uveitis
+    - Vasculitis
+    - Leg pain
+12. Raynaud's Phenomenon
+    - Vasoconstriction
+    - Cyanosis of finger tips
+    - Pallor(_paleness_) of the distal fingers
+13. Angina pectoris
+14. Myocardial Infarction
+    - Necrosis of myocytes
+15. Mitral valve prolapse
+    - Myxomatous degeneration
+    - Enlarged, thick, rubbery, leaflets
+16. Rheumatic Fever & Rheumatic Heart Disease
+    - Mitral stenosis
+    - Aschoff bodies, anitschkow cells
+    - Pancarditis
+17. Acute Infective Endocarditis
+    - S. aureus
+18. Myocarditis
+    - Inflammation of myocard
+    - Cox
+    - Viral lymphocytosis
+19. Silicosis
+    - Higher risk of developing TB
+    - Eggshell calcification
+    - Hard collagen scars
+    - Pale to blackened nodules
+20. Asbestos
+    - Mesothelioma / thick, firm, white plural tumor
+21. Pneumonia
+    - Empyema
+    - Fibrinosuppurative in pleural cavity
+22. Atelectasis / Collapse of lungs
+    - Complete obstruction of lung
+    - Fluid accumulation
+    - Mediastinum shifts away from lesion
+23. COPD
+    - Emphysema
+        - Dirty holes
+        - Loss of alveolar walls
+        - Dilated airspaces
+        - alfa-1 antitripsin
+    - Chronic bronchitis (_increased gland size and mucus_)
+24. Asthma
+    - Chronic bronchoconstriction episodes
+    - Curschmann's spirals
+    - Charcot-Leyden crystals
+    - Immunologic, histaminic
+25. Bronchiectasis
+    - Dilating bronchi
+    - Severe persisting cough
+    - Obstruction
+    - Necrosis
+26. Congenital Hearth Diseases
+    - Atrial septal defect
+    - Ventricular septal defect
+        - Most common
+        - Tetralogy of fallot ile görülebilir
+            - Pulmonary stenosis
+            - Overriding aorta
+            - Right ventricular hypertrophy
+            - Ventricular septal defect
+    - Patent ductus arteriosus
+        - Continuous harsh machinery-like murmur
+    - Atrioventricular septal defect
+27. Transposition of greater arteries
+    - Ventriculoarterial discordance
+    - Tissue hypoxia
+28. Coarctation of aorta
+    - Increased in Turner syndrome
+    - Left ventricular hypertrophy
+29. Coal workers pneumoconiosis
+    - Coal macules
+    - Carbon-Laden macrophages
+30. Sarcoidosis
+    - Multisystem
+    - Noncaseating granulomas
+    - Bilateral hilar LAP
+    - Schaumann Bodies
+31. Hypersensitivity Pneumonitis
+    - Exposure to organics
+    - Farmer's lungs
+    - Pigeon breeder's lung
+32. Hydrothorax
+    - Non-inflammatory serous fluid in pleural cavity
+33. Hemothorax
+    - Kanlı hydrothorax
+34. Pneumothorax
+    - Gas in pleural cavity
