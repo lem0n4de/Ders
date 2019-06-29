@@ -33,7 +33,7 @@
 | ≤8                 | Severe   |
 |--------------------+----------|
 
-#+Breathing patterns for comtose patients
+#+NAME: Breathing patterns for comtose patients
 |------------------------------------------+-------------------|
 | Breathing patterns for comatose patients |                   |
 |------------------------------------------+-------------------|
