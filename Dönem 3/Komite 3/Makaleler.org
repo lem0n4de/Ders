@@ -3,21 +3,21 @@
 - Dry or a little amount of sputum
 - Most commonly associated drug is ACE Inhibitors 
 ** Cough and GERD
-*** Acid suppression therapy (2 PPIs per day for 3 months)
+Acid suppression therapy (2 PPIs per day for 3 months)
 ** Cough and Allergic rhinitis
-*** Nasal glucocorticoids and antihistaminics (but is not really effective)
+Nasal glucocorticoids and antihistaminics (but is not really effective)
 ** Idiopathic or refractory cough
-*** Gabapentin *pregabalin* improves chronic cough a lot
-*** Amitryptiline also
-*** Gabapentin + pregabalin
-**** Better cough severity but not frequency
+- Gabapentin *pregabalin* improves chronic cough a lot
+- Amitryptiline also
+- Gabapentin + pregabalin
+  - Better cough severity but not frequency
 * Peripheral Artery Disease (Caused by atherosclerosis)
 ** Signs and Symptoms
-*** Asymptomatic
-*** Discomfort on exertion of the muscles that are distal to the atherosclerotic artery
-*** Atypical leg discomfort for claudication.
-*** Acute or chronic critical limb ischemia
-*** 0.9 or less ankle-brachial index
+- Asymptomatic
+- Discomfort on exertion of the muscles that are distal to the atherosclerotic artery
+- Atypical leg discomfort for claudication.
+–  Acute or chronic critical limb ischemia
+*–  .9 or less ankle-brachial index
 ** Treatment
 *** *High Intensity statin therapy* for hyperlipidemia
 *** Antihypertensive treatment for hypertension
@@ -35,3 +35,37 @@
 ** Pharmacologic
 *** ACE Inhibitors, angiotensin-receptor blockers, calcium-channel blockers, thiazide-type diuretics
 **** Thiazide type diuretics should be used with caution over 65 yo or low level sodium people
+* DONE Outpatient Mgmnt of COPD
+  CLOSED: [2019-06-29 Sat 12:54]
+** Severity according to Postbronchodilator Spirometry
+|-------+---------------+-------------------------------------------------------------------|
+| Stage | Severity      | Definition                                                        |
+|-------+---------------+-------------------------------------------------------------------|
+|     1 | *Mild*        | FVC <0.70, FEV₁ >= 80%                                            |
+|     2 | *Moderate*    | FVC <0.70, FEV₁ >= 50% & FEV₁ <= 79%                           |
+|     3 | *Severe*      | FVC <0.70, FEV₁ >= 30% & FEV₁ <= 49%                            |
+|     4 | *Very severe* | FVC <0.70, FEV₁ <= 30% /or/ FEV₁ < 50% plus chronic resp. failure |
+|-------+---------------+-------------------------------------------------------------------|
+/FEV₁ denotes forced expiratory volume in 1 second, FVC, forced vital capacity./ 
+** Mgmnt of COPD
+- Short acting bronchodilators for all stages
+- Long-acting β₂-adrenergic agonist, Long-acting anticholinergic after Stage 2
+- Inhaled corticosteroids if patient is prone to exacerbations for Stage 3 and 4
+* DONE Permethrin and Ivermectin for Scabies
+  CLOSED: [2019-06-29 Sat 12:54]
+Scabies (/Uyuz/)
+- /Sarcoptes scabiei/
+- Spread by skin-to-skin contact but even though uncommon
+  can also spread from shared personal items lke clothing or towel.
+- *Rash and relentless itching*
+** Trtmnt of classic Scabies
+- Permethrin 5% cream.
+- Ivermectin 2 times, First one is initial and second one is
+  one-to-two weeks later.
+** Trtmnt of crusted Scabies
+- More frequent Ivermectin trtmnt
+* TODO Chronic Stable Angina
+* TODO Acute Myocardial Infarction
+* TODO Chronic Limb Threatining Ischemia
+* TODO Diuretic Trtmnt in Heart Failure
+* TODO Use of Diuretic in Hypertension
