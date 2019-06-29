@@ -6,17 +6,21 @@
   SCHEDULED: <2019-07-02 Tue 00:00>
 * Komite 4
   SCHEDULED: <2019-06-30 Sun 20:00>
-* Komite 5
-  SCHEDULED: <2019-06-30 Sun 03:00>
-* Komite 6
-  SCHEDULED: <2019-06-29 Sat 20:00>
+* DONE Komite 5
+  CLOSED: [2019-06-29 Sat 20:42] SCHEDULED: <2019-06-30 Sun 21:00>
 ** DONE Jinekoloji
-   CLOSED: [2019-06-29 Sat 18:41]
-** Endokrinoloji
+   CLOSED: [2019-06-29 Sat 20:42]
+** DONE Endokrinoloji
+   CLOSED: [2019-06-29 Sat 20:42]
 ** Üroloji
-** Nükleer Tıp
-** Nefroloji
-** Radyoloji
-** Genel Cerrahi
+** DONE Nükleer Tıp
+   CLOSED: [2019-06-29 Sat 20:42]
+** DONE Nefroloji
+   CLOSED: [2019-06-29 Sat 20:42]
+** DONE Radyoloji
+   CLOSED: [2019-06-29 Sat 20:42]
+** DONE Genel Cerrahi
+   CLOSED: [2019-06-29 Sat 20:42]
+* Komite 6
 * DONE Komite 7
   CLOSED: [2019-06-29 Sat 03:05]

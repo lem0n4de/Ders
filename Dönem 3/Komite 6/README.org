@@ -1,0 +1,198 @@
+* Trivial things to look at one last time so you think you know all when going to the exam.
+** Neurology
+- Todd's paralysis ⋙ Postictal paralysis
+- Epilepsy pathogenesis is *elevated Glutamate and decreased GABA*
+- Seizure classification, /simple, complex, abscence, tonic, myotonic, atonic, tonic-clonic/.
+- Antiepileptic drugs *Carbamazepine, Phenytoin, Phenobarbital, Ethosuximide, Valproic Acid*
+- Reversible causes of dementia
+  - *D* rugs
+  - *E* lectrolyte disturbance
+  - *M* etabolic derangement
+  - *N* utritional deficiencies
+  - *N* ormal pressure hydrocephaly /(Dementia, gait disturbance, urinary incontinence)/
+  - *T* umor, trauma, thyroid
+  - *I* nfection
+  - *A* lcoholism
+- MMSE neuropsychiatric test to determine cognitive states
+
+|-------------------+-------------------------------------|
+| Corpus striatum   | Caudate + Putamen + Globus pallidus |
+| Striatum          | Caudate + Putamen                   |
+| Lentiform Nucleus | Globus pallidus + Putamen           |
+|-------------------+-------------------------------------|
+
+- *Lewy bodies* in S. nigra in Parkinson's disease.
+- Conciousness states are /Alert, confusion, somnolence, stupor, coma/
+
+#+NAME: Glasgow coma scale
+|--------------------+----------|
+| Glasgow coma scale |          |
+|--------------------+----------|
+| ≥13                | Minor    |
+| 9-12               | Moderate |
+| ≤8                 | Severe   |
+|--------------------+----------|
+
+#+Breathing patterns for comtose patients
+|------------------------------------------+-------------------|
+| Breathing patterns for comatose patients |                   |
+|------------------------------------------+-------------------|
+| Cheyne-Stokes                            | Diencephalone     |
+| Central Neurogenic Hyperventilation      | Midbrain          |
+| Apneustic                                | Pons              |
+| Ataxic                                   | Medulla oblongata |
+|------------------------------------------+-------------------|
+
+- Polymyositis, also called rhabdomyolisis can lead to kidney failure. CK>5000 mg‌/dL
+- Dermatomyositis, *purple eyelids*, *60% of the cases are seen as paraneoplastic syndrome* from cancer like SCLC, breast, etc...
+  - Steroids, if does not work, Azathiopurine and Mycophenolate mofetyl.
+- Duschenne Muscle Dystrophy, *NO DYSTROPHIN*, CK>1000 mg/dL, *Gower's sign*
+  - The sign describes a patient that has to use their hands and arms to
+    "walk" up their own body from a squatting position due to lack of hip and thigh muscle strength.
+- Becker's Muscle Dystrophy, *Some dystrophin*
+- Myotenic Dystrophy patients has increased muscle tonus on repeated actions.
+- Acute flu-like symptoms, altered conciousness is seen in Encephalitis.
+- HSV is the most common encephalitis agent.
+- SSPE most common in children, HIV encephalitis most common in adults.
+- ALS, Superoxide Dismutase 1, bulbar-onser ⋙ worst prognosis, spinal cord onset ⋙ most common.
+  - Glutamate excitotoxicity
+  - Oxidative stress
+  - Protein aggregation
+  - Axonal strangulation
+- α vawes ⋙ NREM Stage 1, θ waves ⋙ NREM Stage 2, δ waves ⋙ NREM Stage 3-4, β waves awake.
+- Raphe nuclei promotes sleep
+- Narcolepsy tetrad
+  - Excessive sleepiness
+  - Cataplexy
+  - Sleep paralysis
+  - Hypnagogic or hypnopompic hallucination
+- Modafinil and MLST used in treatment for Narcolepsy
+- `Worst headache of my life` is an alert for *Subarachnoid hemorrhage*
+- TIAs are warning strokes
+
+#+NAME: Stroke regions and symptoms
+|-------------------------------+--------------------------------------+----------------|
+| Major regions of Stroke       | Symptoms                             | Effective area |
+|-------------------------------+--------------------------------------+----------------|
+| Medial Cerebral Artery        | Contralateral Facial Paralysis,      | Upper > Lower  |
+|                               | Contralateral hemiplegia,            |                |
+|                               | Bilateral eye deviation              |                |
+|-------------------------------+--------------------------------------+----------------|
+| Anterior Cerebral Artery      | Contralateral hemiplegia             | Lower > Upper  |
+|                               | Urinary Incontinence                 |                |
+|                               | Anosmia                              |                |
+|                               | Personality change                   |                |
+|-------------------------------+--------------------------------------+----------------|
+| Posterior Cerebral Artery     | Contralateral homonymous hemianopsia |                |
+|                               | Hallucination and agnosia            |                |
+|-------------------------------+--------------------------------------+----------------|
+| Vertebrabasilar System Stroke | Severe vertigo                       |                |
+|                               | Nausea, vomiting                     |                |
+|                               | Dysphagia                            |                |
+|                               | Cerebellar ataxia on the stroke side |                |
+|-------------------------------+--------------------------------------+----------------|
+
+- Info about pain PQRST/AFT
+  - *P* rovoking / palliating conditions
+  - *Q* uality
+  - *R* adiation
+  - *S* everity
+  - *T* ime
+  - *A* ccompanying Symptoms
+  - *F* requency
+  - *T* riggers
+
+#+NAME: Headache types
+|-----------------------+---------------------------------------------+-----------------------|
+| Headache type         | Quality of Headache                         | Frequency             |
+|-----------------------+---------------------------------------------+-----------------------|
+| Migraine              | Moderate - Severe                           | 4-72 hours            |
+|                       | Unilateral, supra-orbital                   |                       |
+|                       | Pulsating                                   |                       |
+|                       | Aggravated by physical activity             |                       |
+|-----------------------+---------------------------------------------+-----------------------|
+| Tension type Headache | Pressing / tightening                       | >30 min, <7 days      |
+|                       | Bilateral, around head, occipital           |                       |
+|                       | Mild - moderate                             |                       |
+|                       | Does not aggravate w/ physical activity     |                       |
+|-----------------------+---------------------------------------------+-----------------------|
+| Cluster Headache      | Extremely severe but brief                  |                       |
+|                       | Non-pulsatile                               |                       |
+|                       | Unilateral                                  |                       |
+|                       | Redness in eye, rhinorrhea, tearing,        |                       |
+|                       | Facial swelling on the side of the headache |                       |
+|-----------------------+---------------------------------------------+-----------------------|
+| Paroxysmal Hemicrania | Similar to cluster                          | 2-30 min per headache |
+|                       |                                             | 5-40 per day          |
+|-----------------------+---------------------------------------------+-----------------------|
+
+#+NAME: Symptoms according to injury types
+|------------------------+------------------------+-------------------|
+| Injury type            | Negative symptoms      | Positive symptoms |
+|------------------------+------------------------+-------------------|
+| Motor nerve injury     | Wasting                | Fasiculations     |
+|                        | Hypotonia              | Weakness          |
+|                        | Weakness               |                   |
+|                        | Hyporeflexia           |                   |
+|                        | Orthopedic deformity   |                   |
+|------------------------+------------------------+-------------------|
+| Sensory nerve injury   | Vibration              | Paresthesias      |
+| Large fibers           | Proprioception         |                   |
+|                        | Hyporeflexia           |                   |
+|                        | Sensory ataxia         |                   |
+|------------------------+------------------------+-------------------|
+| Sensory nerve injury   | Pain                   | Dysesthesias      |
+| Small fibers           | Temperature            | Allodynia         |
+|------------------------+------------------------+-------------------|
+| Autonomic nerve injury | Sweating               | Sweating          |
+|                        | Hypotension            | Hypertension      |
+|                        | Urinary retention      |                   |
+|                        | Impotence              |                   |
+|                        | Vascular color changes |                   |
+|------------------------+------------------------+-------------------|
+
+- Neuropraxia is slowed conduction, normal. Neurotemesis is damage to axon and epinerium.
+- *Wallerian degeneration* Wallerian degeneration is an active process of degeneration 
+  that results when a nerve fiber is cut or crushed and the part of the axon distal to
+  the injury (i.e. farther from the neuron's cell body) degenerates.
+- Median nerve compression ⋙ Carpal tunnel, Ulnar tunnel compression ⋙ Cubital tunnel
+- Guillain-Barre, acute, immune modulated, ascending, flaccid paralysis.
+- Miller Fischer (?)
+- Myasthenia Gravis
+  - thymus-based
+  - *Fluctuating ptosis*
+  - Fatige in the muscles after mastication.
+  - Pyridostigmin, Prednisolone, Azathiopurine, Mofetyl Mycophenolate
+  - Muscle fatigue against gravity.
+  - Blocked postsynaptic Na⁺ channels by antibodies.
+- Lambert - Eaton Myasthenic Syndrome
+  - Opposite of Myasthenia gravis.
+  - Worse ptosis in morning, better in the evening.
+  - Antibodies against presynaptic Ca⁺⁺ channels.
+  - Risk of being paraneoplastic syndrome is high esp. w/ SCLC.
+- MS, inflammatory demyelinating disease of CNS. Exacerbated by heat.
+- Primary motor cortex ⋙ Broadman 4.
+- Supplementary motor cortex ⋙ 6.
+- Frontal eye fields ⋙ 8.
+- Vulpian eyes, deviation of head and eyes to the lesion side.
+- *Foster Kennedy Syndrome*, IL anosmia, IL optic nerve atrophy, CL papilla edema.
+  Dysphasia if tumor is on the dominant hemisphere.
+- *Gerstman Syndrome*, agraphia, acalculia, finger agnosia, inability to distinguish right and left side of the body.
+
+#+NAME: Agnosia types
+|---------------+------------------------------------------------------------------------------------------------|
+| Agnosia type  | Definition                                                                                     |
+|---------------+------------------------------------------------------------------------------------------------|
+| Prosopagnosia | Loss of ability to recognize familial faces                                                    |
+| Anasagnosia   | Denial of one's disability                                                                     |
+| Asteragnosia  | Inability to identify an object by touch w/o visual input                                      |
+| Agnosia       | Inability to process sensory information. Loss of ability to recognize objects, people, etc... |
+| Agraphia      | Inability to write                                                                             |
+| Apraxia       | Beceri bozukluğu                                                                               |
+|---------------+------------------------------------------------------------------------------------------------|
+
+- Aphasia, spontaneous speech impairment, comprehension impairment, writing impairment, reading impairment
+- *Non-fluent Broca's aphasia*, has poor repetition
+- *Wernicke's aphasia* has fluent speech but impaiered comprehension
+- *Conduction aphasia*
+- *Transcortical motor aphasia has preserved repetition.*
