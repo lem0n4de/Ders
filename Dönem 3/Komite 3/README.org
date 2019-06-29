@@ -16,24 +16,24 @@ Nasal glucocorticoids and antihistaminics (but is not really effective)
 - Asymptomatic
 - Discomfort on exertion of the muscles that are distal to the atherosclerotic artery
 - Atypical leg discomfort for claudication.
-–  Acute or chronic critical limb ischemia
-*–  .9 or less ankle-brachial index
+- Acute or chronic critical limb ischemia
+- 0.9 or less ankle-brachial index
 ** Treatment
-*** *High Intensity statin therapy* for hyperlipidemia
-*** Antihypertensive treatment for hypertension
-*** Smoking cessation
-*** Diabetes tx
-*** Antiplatelet
-**** Significant reduction in nonfatal stroke risk but not CV events
+- *High Intensity statin therapy* for hyperlipidemia
+- Antihypertensive treatment for hypertension
+- Smoking cessation
+- Diabetes tx
+- Antiplatelet
+  - Significant reduction in nonfatal stroke risk but not CV events
 **** Clopidogrel
-*** Revascularization and Supervised exercise for functional capacity improvements
+- Revascularization and Supervised exercise for functional capacity improvements
 * Initial Mgmnt of Hypertension
 ** Lifestyle changes
-*** Restriction of sodium intake *below 1500 mg per day*
-*** Exercise
-*** Minimized use of NSAIDs, decongestants, amphetamines
+- Restriction of sodium intake *below 1500 mg per day*
+- Exercise
+- Minimized use of NSAIDs, decongestants, amphetamines
 ** Pharmacologic
-*** ACE Inhibitors, angiotensin-receptor blockers, calcium-channel blockers, thiazide-type diuretics
+- ACE Inhibitors, angiotensin-receptor blockers, calcium-channel blockers, thiazide-type diuretics
 **** Thiazide type diuretics should be used with caution over 65 yo or low level sodium people
 * DONE Outpatient Mgmnt of COPD
   CLOSED: [2019-06-29 Sat 12:54]
