@@ -1,13 +1,15 @@
-* Komite 1
+* [[file:Komite%201/][Komite 1]]
   SCHEDULED: <2019-07-01 Mon 20:00>
-* Komite 2
+* [[file:Komite%202/][Komite 2]]
   SCHEDULED: <2019-07-01 Mon 20:00>
-* Komite 3
+* [[file:Komite%203/][Komite 3]]
   SCHEDULED: <2019-07-02 Tue 00:00>
-* Komite 4
+* [[file:Komite%204/][Komite 4]]
   SCHEDULED: <2019-06-30 Sun 20:00>
-* DONE Komite 5
+* DONE [[file:Komite%205/][Komite 5]]
   CLOSED: [2019-06-29 Sat 20:42] SCHEDULED: <2019-06-30 Sun 21:00>
+** Farmakoloji
+** Patoloji
 ** DONE Jinekoloji
    CLOSED: [2019-06-29 Sat 20:42]
 ** DONE Endokrinoloji
@@ -21,6 +23,27 @@
    CLOSED: [2019-06-29 Sat 20:42]
 ** DONE Genel Cerrahi
    CLOSED: [2019-06-29 Sat 20:42]
-* Komite 6
+* DONE [[file:Komite%206/][Komite 6]]
+  CLOSED: [2019-06-30 Sun 03:42]
+** DONE Nöroloji
+   CLOSED: [2019-06-30 Sun 01:01]
+** DONE Psikiyatri
+   CLOSED: [2019-06-30 Sun 02:39]
+** DONE Romatoloji
+   CLOSED: [2019-06-30 Sun 01:01]
+** DONE FTR
+   CLOSED: [2019-06-30 Sun 01:42]
+** DONE Patoloji
+   CLOSED: [2019-06-30 Sun 03:42]
+** DONE Farmakoloji
+   CLOSED: [2019-06-30 Sun 03:35]
+** DONE Oftalmoloji
+   CLOSED: [2019-06-30 Sun 02:11]
+** DONE Pediatri
+   CLOSED: [2019-06-30 Sun 02:17]
+** DONE Radyoloji
+   CLOSED: [2019-06-30 Sun 02:20]
+** DONE Nükleer Tıp
+   CLOSED: [2019-06-30 Sun 02:24]
 * DONE Komite 7
   CLOSED: [2019-06-29 Sat 03:05]

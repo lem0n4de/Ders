@@ -196,3 +196,220 @@
 - *Wernicke's aphasia* has fluent speech but impaiered comprehension
 - *Conduction aphasia*
 - *Transcortical motor aphasia has preserved repetition.*
+** FTR
+- Biphophonates (*Alendronate, Zolendronate*) are the most effective antiresortive agents
+  and are used for the trmnt of *Osteoporosis*.
+- *Raloxifene*, *Selective Estrogen Receptor Modulator*, used for woman w/o hip fractures, and reduces risk for Breast Ca.
+- Denosumab, acts like RANKL and inhibits osteoclastogenesis.
+- Bone resorption markers.
+  - Pyridine and deoxypyridine are found in urine.
+  - NTX, CTX are both found in serum and urine.
+- Most common form of articular disorder is *Osteoarthritis*.
+- Some red flags for Low Back Pain
+  - Age <15 or >50
+  - Trauma
+  - Pain at rest
+  - Prog. sensory deficit
+  - Hx of cancer, osteoporosis, drugs, steroids
+  - Failure of conservative therapy
+- 50% of neck motion is between occipit-C1, 50% between C1-C2.
+- Functional unit of spine *Transverse process, Spinous process, etc...*
+- Cervical strain, injury to paraspinal muscles & ligaments, spasm of cervical upper back muscles.
+- Cervical Discogenic Pain is *most common neck pain*, derangement of disc architecture. Tightness on palpation.
+- Whiplash injury, caused by abrupt flexion/extension of cervical spine.
+- Thoracic outlet syndrome, neck and shoulder pain w/ referred pain to upper limbs.
+  *Triad of numbness, weakness and swelling sensation of upper limbs*.
+
+** Rheumatology
+- Diagnostic criteria for Behçet's Disease is:
+  - Recurrent oral ulceration + 2 of below
+  - Recurrent genital ulcers
+  - Eye lesions, uveitis
+  - Skin lesions, Erythema nodosum like lesions
+  - Pathergy test
+- Behçet's Disease, *HLA-B51 association, Transmural necrosis*.
+  - *Ocular lesions can lead to blindless* bilaterally if not taken care of.
+  - Small vessel vasculitis is common.
+  - Hypopyon, characteristic of Behçet's Disease, is a visible layer of pus inside anterior ocular chamber.
+- Most common aneurysm site is abdominal aorta.
+- 7 types of attacks for FMF:
+  - Fever (nearly always present)
+  - Abdominal
+  - Chest
+  - Joint
+  - Cutaneous (*rash on dorsum of the foot (pathognomonic)*)
+  - Myalgia
+  - Scrotal inflammation
+- *Pyrin* /mare nostrin/ protein is ineffective in FMF.
+- Most important complication of FMF is amyloidosis.
+- Treatment for FMF is *Colchicine*
+- SLE is inflammation of connective tissue marked by skin rashes, arthritis, swelling, renal disorder, haematological disorder, etc...
+- *Rituximab* and anticytokines are used in trtmnt.
+- Dermatomyositis, *Gottron's sign, purple eyes, showl pattern, symmetrical muscle weakness*, prednisolone.
+- Scleroderma is known by symmetrical thickening, tightening and induration of the fingers and the skin.
+- Raynaud's phenomena is the first manifestation of Progressive Systemic Sclerosis.
+- Sjögren's Syndrome is the triad of *Keratoconjunctivitis sicca, Xerostomia, Rheumatoid Arthritis*. RF+, CRP, IgG, IgA, IgM are elevated.
+- Giant cell arteritis involves arteries of the head, steroids, if patient goes blind, it is counted as malpractice.
+- PAN has *NO LUNG INVOLVEMENT*, can have lesions that are at different stages and no ass. w/ ANCA.
+  Renal involvement may happen and hypertension can be seen. Hepatitis B association. 
+- pANCA seen in Microscopic Polyangitis, same stage lesions, necrotizing glomerulonephritis.
+- *Wegener's Granulomatosis* is triad of:
+  - Acute necrotizing granulomas of resp. tract
+  - Necrotizing or granulomatous vasculitis of small to medium vessels.
+  - Focal necrotzing, often crescentic glomerulitis
+  *c-ANCA is seen, pathognomonic*
+- Churg-Strauss D. patients mostly have asthma. Eosinophil-rich inflammation.
+- Gout, monosodium urate crystals within joints. Can be seen with hyperuricemia. *Tophi* deposition in chronic form. Tx w/ allopurinol.
+- Rheumatoid arthritis, ass. w/ HLA-DR1 & HLA-D4 genes.
+  - IF-γ, IL-17, TNF-α, IL-1, IL-6
+  - Morning stiffness <1h, fatigue, swollen joints.
+  - RF+
+  - Rheumatoid *nodules in lungs*
+  - Felty's syndrome ⋙ RA, Splenomegaly, Granulocytopenia.
+- Spondyloarhritides
+  - HLA-B27
+  - Ankylosing spondylitis
+    - Chronic inflammatory disease of axial skeleton causing back pain and progressive stiffness.
+    - Enthesis
+** Ophthalmology
+- Abducens is the most vulnerable nerve in the head.
+- (LR6SO4)3
+- Diabetic retinopathy more in T1 than T2.
+- Vortex veins can lead to compartment syndrome.
+- Hess-Lee test, "connect the dots"
+- Most common paralytic strabismus cause in adults is DM, in children trauma (*possibility of child molesting should be in mind*)
+- *Inferior rectus* is the most commonly involved muscle in *thyroid ophthalmopathy*.
+** Pediatrics
+- Febrile seizure is seizure w/ fever but w/o intracranial infection.
+- Breath holding spells
+  - Cyanotic is the most common, change in breathing due to anger or frustration.
+  - Pallid is caused by slowing of heart.
+- Meningeal Irritation Signs
+  - Neck stiffness
+  - Kernig sign
+  - Brudzinski sign
+- Symptoms of Meningitis
+  - Fever, change or loss in conciousness, convulsion, vomiting, positive meningeal irritation signs, purpuric rashes.
+- Macrocephaly, larger cranium than 2SD or more.
+- Hydrocephaly, obstructive, non-obstructive, ass. w/ spina bifida.
+- Microcephaly, 2SD smaller, 3SD smaller is severe.
+- Megalencephaly, honey moon period
+- Craniostenosis is premature closure of sutures, needs treatment.
+** Radiology
+- Bone is white in CT.
+- Skin can be seen.
+- Contrast material is not used in traumas to differentiate bleeding point which is already high density.
+- Bright CSF ⋙ T2 MRI, else T1 MRI
+- Flair MRI shows everything that is pathologic
+- All aneurysms in brain will bleed to subarachnoid space.
+** Nuclear Medicine
+- Tc-99m MDP ⋙ used for bone scintigraphy.
+- Tc-99m HMPAO ⋙ used for brain
+- Prostat, breast, Ca tend to metastate to bone.
+- Thyroid Ca, renal tumor, hypernephron tumor are tumors that has low scintigraphy sensitivity.
+** Psychiatry
+- Putting chief complaint in the patients own words in report.
+- A pt. that believes everyday neutral occurrences carry personal and unique significance is said to have *Ideas of reference*.
+- Convulsions are things that are done to relax obsessions.
+- Delirium
+  - Disturbance in attention
+  - Acute
+  - Additional disturbance in cognition
+  - Direct physiological consequence
+  - Visual hallucinations are the most seen type.
+  - Anticholinergic medication can be cause.
+  - Decreased acetylcholine activity.
+- Fear, known, external, definite, non-conflictual, sudden.
+  Anxiety, unknown, internal, vague, conflictual, insidious.
+- Thyroid hormone levels should be checked for a pt w/ anxiety.
+- Schizophrenia
+  - Hallucinations
+  - Delusions
+  - Disorganized speech
+  - Grossly disorganized or catotonic behaviour
+  - Negative symptoms
+  - Death and CVD are the most common death reasons.
+- Somatoform disorders does not have a real cause but psychosomatic patients has a real cause but psychologically exacerbated.
+- Self respect is not gone while in grief but gone in depression.
+- Cluster A paranoid, Cluster B Antisocial, Cluster C anxietic.
+- Anorexia is the loss of appetite. Restricting and Binge Eating/Purging forms. These pts have lower weight than normal.
+- Bulimia nervosa, like anorexia but w/ normal weight.
+- Dissociative disorder is the inability to recall important personal information, usually of a traumatic or stressfull nature
+  that is too extensive to be explained by normal forgetfulness.
+** Pharmacology
+- General anesthetics are Barbiturates, Propafol, Etomidate, Ketomin, Midazolam.
+- Inhalation anesthetics are Nitrous Oxide, Halothane, Enflurone, Isflurone
+- Local anesthetics block Na⁺ channels from inside thus blocks impulse conduction. Their effects are reversible.
+  - Bupivacaine
+  - Lidocaine
+  - Prilocaine
+- For Parkinson's Disease, Levodopa, Repinirole, promipexole.Tolcapone, entacapone, seregiline, rasıgiline, diphenhydramine, amantadine.
+- For Alzheimer's Disease, Donepezil, Rivastigmine, Galantamine are for cognitive symptoms,
+  Risperidone, olanzepine are for behavioural symptoms.
+- Riluzole, Baclofen, Tizanidine, Dantrolene for ALS.
+- For MS, Glucocorticoids for acute attacks,
+  β₁ interferons, Glatiramer acetate, Natalizumab, Mitaxantrone, Fingolimad for immune modulatory effects.
+- Doxepin for Insomnia.
+- Hydroxychloroquine is best tolerated DMARD (Disease-modifying antirheumatic drug).
+- Colchicine is the tx for Gout and FMF. Allopurinol is used for Chronic Gout.
+- Benzodiazepines are:
+  - Highly addictive,
+  - Safe in overdose,
+  - *Binding γ-part of GABA receptors*
+  - Impairs memory
+  - Anticonvulsive
+  - First drug that is given to pt with *status epilepticus*
+- Rameltaon and Tasimelteon - Melatonin antagonists
+  - No effect on GABAergic neurotransmission. Shoul not be taken w/ CYP1A2 inhibitors.
+- Migraine
+  - *Triptans*
+    - 5-HT1 agonists
+    - Shorter duration and used for acute attacks
+    - First line therapy
+    - Naratriptan and eletriptan (Severe hepatic and renal impairment), Zalmitriptan (Wolf-Parkinson White syndrome), Frovatriptan
+  - Ergot alkaloids
+    - Ergotamine, Ergonovin maleate (Also, intramuscularly used for postpartum hemorrhage), Dihydroergotoxine
+  - Ca⁺⁺ channel blockers
+    - Propranolol, amitriptyline are effective for prophylaxis but not for acute attacks.
+    - Valproic acid, topiramate, verapamil, etc...
+  - CGRP receptor antagonists
+    - Olcegepant low bioavailability, Telcogepant effective and orally active but liver toxicity
+  - Tizanidine is used for chronic migraine management.
+- Opioid antagonists
+  - If given to opioid dependent people, even small doses can produce severe withdrawal syndrome.
+  - Methylnaltrexone has poor CNS availability and used for constipation.
+    - Added methyl group excludes drug from CNS.
+- Epilepsy
+  - Mechanism of Action - 1 - Promoting inactivated state of Na⁺ channels
+    - *Carbamazepine, Phenytoin, Topiramate, Valproic acid*
+  - MOA - 2 - Enhanced GABA mediated synaptic inhibition
+    - *Benzodiazepines, barbiturates* postsynaptic
+    - *Vigovatrin, Valproic acid, tiagabin* presynaptic
+  - MOA - 3 - Inhibition of voltage-activated T-type Ca⁺⁺ channels (Used for abscence seizures)
+    - *Valproic acid, ethosuximide*
+- Barbiturates cause sedation, are inexpensive and has low toxicity. Phenobarbital was the first effective organic antiseizure drug.
+- Valproic acid has the risk of developing *fulminant hepatitis* in pt.
+- SSRIs
+  - Fluoxetine, Paroxetine, Sertraline
+  - Nausea, vomiting, anxiety, Irritability, Decreased libido.
+  - Contraindicated for bipolar disorder.
+- SNRIs
+  - Venlofaxine, Duloxetine, Minacipron, Bupropion
+  - Nausea, constipation, insomnia, headaches, sexual dysfunction
+  - Contraindicated for bipolar disorder.
+- TCAs
+  - Sedation, *major cardiac side effects*, cognitive dulling, etc...
+  - Contraindicated for bipolar depression.
+  - Greater efficacy than SSRIs for Major Depressive Disorder or depression w/ melancholia.
+- MAOIs
+  - *Hypertension when taken w/ tyramine containing food.*
+  - *Irreversible*
+- Lithium, mood stabilizer.
+- First Generation Antipsychotics *Dopamine D2 receptor antagonists*
+  - Haloperidol, delirium and dementia like short term symptomatic treatment
+  - Chlorpromazine
+- Second Generation Antipsychotics *5-HT2 receptor antagonists mostly*
+  - Clozapine, first found SGA. Treatment refractory schizophrenia and agranulocytosis.
+  - Risperidone, haloperidol like usage.
+  - Aripiprazole blocks high level of DA but facilitates low levels
+  - Amisulpride blockage of cortical dopamine receptor but not those in basal ganglia.
